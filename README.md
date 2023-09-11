@@ -3,7 +3,7 @@
 Creating a Snake Maze Solver in Java using OOP 
 
 ## Description
-This project was created as apart of an Data Structures and Algorithims Course. The objective was to create a randomized maze with atleast a set size of 5 x 20 that automatically solves itself. The project makes use both Stacks and Queues Data Structures as well as Inheritance classes.
+This project was created as a part of an Data Structures and Algorithims Course. The objective was to create a randomized maze with atleast a set size of 5 x 20 that automatically solves itself. The project makes use both Stacks and Queues Data Structures as well as Inheritance classes.
 
 
 ## Getting Started
